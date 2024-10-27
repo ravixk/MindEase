@@ -1,0 +1,14 @@
+
+videos = {
+        "sad" : "https://www.youtube.com/watch?v=VooHSLtp5do",
+        "stressed": "https://www.youtube.com/watch?v=HM46YzlPY9E",
+        "worthless" : "https://www.youtube.com/watch?v=gJscrxxl_Bg",
+        "depressed" : "https://www.youtube.com/watch?v=3pNpHZ1yv3I",
+        "anxious" : "https://www.youtube.com/watch?v=79kpoGF8KWU",
+        "sleep" : "https://www.youtube.com/watch?v=FIMdEPd98xs",
+        "scared" : "https://www.youtube.com/watch?v=xPDphbUyFJ4",
+        "death" : "https://youtu.be/RgKAFK5djSk",
+        "understand" : "https://www.youtube.com/watch?v=QNJL6nfu__Q",
+        "suicide" : "http://www.aasra.info/helpline.html"
+        }
+
